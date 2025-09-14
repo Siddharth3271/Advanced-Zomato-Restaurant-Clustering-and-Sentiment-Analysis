@@ -124,11 +124,9 @@ The project successfully analyzed Zomato restaurant data to gain insights into c
 
 ## ⚡ Technologies Used
 
-- Python (Pandas, NumPy, Scikit-learn)  
-- Matplotlib & Seaborn for visualization  
-- NLP libraries (NLTK, TextBlob)  
-- K-Means clustering and PCA  
-- Sentiment classification models
+- Programming Language: Python
+- Libraries: Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, SciPy, NLTK, Gensim, SHAP
+- Tools: Jupyter Notebook, Git, vscode
 
 ---
 
